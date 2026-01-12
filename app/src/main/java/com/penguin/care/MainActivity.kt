@@ -109,22 +109,17 @@ class MainActivity : AppCompatActivity() {
             energy = minOf(100, energy + 35)
             happiness = minOf(100, happiness + 5) // Rest makes penguin slightly happier
             
-            // Show sleep sequence
-            animatePenguin("walk") // Walk to sleeping spot
+            // Show sitting/sleeping sequence
+            penguinImage.setImageResource(R.drawable.penguin_sitting_anim)
+            val animation = penguinImage.drawable as AnimationDrawable
+            animation.start()
+            
+            // After sitting animation completes (about 13.8 seconds total)
             handler.postDelayed({
-                animatePenguin("slide") // Lie down
-                handler.postDelayed({
-                    animatePenguin("idle") // Sleep peacefully
-                    handler.postDelayed({
-                        animatePenguin("bounce") // Wake up refreshed
-                        handler.postDelayed({
-                            isPerformingAction = false
-                            currentIdleAction = "idle"
-                            animatePenguin("idle")
-                        }, 800L)
-                    }, 2000L)
-                }, 1000L)
-            }, 800L)
+                isPerformingAction = false
+                currentIdleAction = "idle"
+                animatePenguin("idle")
+            }, 14000L)
             
             updateStats()
         }

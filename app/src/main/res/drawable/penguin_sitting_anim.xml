@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <!-- Sitting down animation -->
+    <item android:drawable="@drawable/penguin_sitting_00" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_01" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_02" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_03" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_04" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_05" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_06" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_07" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_08" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_09" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_10" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_11" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_12" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_13" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_14" android:duration="10000" />
+    <!-- Getting back up animation (reverse) -->
+    <item android:drawable="@drawable/penguin_sitting_13" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_12" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_11" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_10" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_09" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_08" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_07" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_06" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_05" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_04" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_03" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_02" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_01" android:duration="200" />
+    <item android:drawable="@drawable/penguin_sitting_00" android:duration="200" />
+</animation-list>
