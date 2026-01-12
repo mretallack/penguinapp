@@ -1,0 +1,1322 @@
+[
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/anim_penguin_bounce.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/anim/penguin_bounce.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_walk_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_walk_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_slide_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/slide_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_jump_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_jump_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_walk_2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_walk_2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_jump_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_jump_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_mid_air.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/mid_air.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_eating.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_eating.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_jump_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_jump_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_slide_2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/slide_2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_jump_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_jump_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_happy.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_happy.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_sleep_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_sleep_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_heart_icon.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/heart_icon.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_walk_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/walk_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_toy_ball.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/toy_ball.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_idle_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_idle_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleeping.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleeping.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_14.png"
+    },
+    {
+        "merged": "com.penguin.care.app-merged_res-28:/drawable_fish_food.png.flat",
+        "source": "com.penguin.care.app-main-30:/drawable/fish_food.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_jump_stretch.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/jump_stretch.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_new_3.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_new_3.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_turn_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_turn_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_idle_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/idle_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_hurt_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_hurt_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_icon.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_icon.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_walk_2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/walk_2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_sleep_icon.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/sleep_icon.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_idle_2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/idle_2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_walk_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_walk_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_idle_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_idle_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_idle_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_idle_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_idle_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_idle_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_new_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_new_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_happy_new.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_happy_new.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_fish_food.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/fish_food.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_run_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_run_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_walk_4.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/walk_4.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_cry_2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/cry_2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_idle_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_idle_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_cry_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/cry_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_new_2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_new_2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_shock_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/shock_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_run_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_run_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_new_penguin.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/new_penguin.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_walk_3.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/walk_3.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_idle_new_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_idle_new_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_cute_penguin.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/cute_penguin.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_happy_new_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_happy_new_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_new_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_new_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_turn_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_turn_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_jump_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_jump_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/anim_penguin_sad.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/anim/penguin_sad.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_prep_squash.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/prep_squash.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_blink_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_blink_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_energy_icon.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/energy_icon.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_hurt_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_hurt_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_land_squash.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/land_squash.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_jump_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_jump_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_sleep_0.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_sleep_0.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_unhappy_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_unhappy_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_04.png"
+    },
+    {
+        "merged": "com.penguin.care.app-merged_res-28:/drawable_toy_ball.png.flat",
+        "source": "com.penguin.care.app-main-30:/drawable/toy_ball.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/anim_penguin_happy.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/anim/penguin_happy.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_15.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_15.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_cute_penguin2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/cute_penguin2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_02.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_02.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_slide_3.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/slide_3.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_shock_2.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/shock_2.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_04.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_04.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_new_walk_3.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_new_walk_3.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_jump_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_jump_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_bounce_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_bounce_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_07.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_07.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/anim_penguin_idle.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/anim/penguin_idle.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_06.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_06.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_idle_new_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_idle_new_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/anim_penguin_sleep.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/anim/penguin_sleep.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_01.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_01.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_03.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_03.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_rest_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_rest_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row14_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row14_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_sleep_new.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_sleep_new.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_slide_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_slide_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_hurt_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_hurt_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_walk_new_1.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_walk_new_1.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_13.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_13.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row12_11.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row12_11.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_misc_00.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_misc_00.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_ill_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_ill_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row15_05.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row15_05.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_action_12.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_action_12.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_row13_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_row13_08.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_run_anim.xml.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_run_anim.xml"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_special_14.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_special_14.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_state_10.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_state_10.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_extra_09.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_extra_09.png"
+    },
+    {
+        "merged": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-merged_res-28:/drawable_penguin_emotion_08.png.flat",
+        "source": "/home/mark/.gradle/daemon/8.5/com.penguin.care.app-main-30:/drawable/penguin_emotion_08.png"
+    }
+]
